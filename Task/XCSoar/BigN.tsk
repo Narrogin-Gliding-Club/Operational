@@ -1,0 +1,68 @@
+<Task fai_finish="0" finish_min_height_ref="AGL" finish_min_height="427" start_max_height_ref="AGL" start_max_height="0" start_max_speed="0" start_requires_arm="0" aat_min_time="10800" type="RT">
+	<Point type="Start">
+		<Waypoint altitude="337" comment="Start and finish" id="248" name="N0">
+			<Location latitude="-32.8856" longitude="117.122"/>
+		</Waypoint>
+		<ObservationZone radius="500" type="Cylinder"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="249" name="N1">
+			<Location latitude="-32.7076" longitude="117.122"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="250" name="N2">
+			<Location latitude="-32.7076" longitude="117.176"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="251" name="N3">
+			<Location latitude="-32.8227" longitude="117.283"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="252" name="N4">
+			<Location latitude="-32.7076" longitude="117.283"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="253" name="N5">
+			<Location latitude="-32.7076" longitude="117.337"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="254" name="N6">
+			<Location latitude="-32.8856" longitude="117.337"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="255" name="N7">
+			<Location latitude="-32.8856" longitude="117.283"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="256" name="N8">
+			<Location latitude="-32.7705" longitude="117.176"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Turn">
+		<Waypoint altitude="0" comment="" id="257" name="N9">
+			<Location latitude="-32.8856" longitude="117.176"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+	<Point type="Finish">
+		<Waypoint altitude="337" comment="Start and finish" id="248" name="N0">
+			<Location latitude="-32.8856" longitude="117.122"/>
+		</Waypoint>
+		<ObservationZone type="FAISector"/>
+	</Point>
+</Task>
